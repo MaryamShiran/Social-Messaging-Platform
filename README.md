@@ -1,4 +1,4 @@
-Simple Messaging System
+**Simple Messaging System**
 This project is a basic command-line based messaging system implemented in C. It allows users to register, log in, send messages, edit their messages, view all messages, and change their password. The system supports storing user credentials and messages persistently in text files.
 
 Features
